@@ -122,7 +122,7 @@ while a == 1:
 
     if selecionado == '1':
         os.system('cls')
-        opcao = str(input('[1] - Listar Pessoas | [2] - Cadastrar Pessoas | [3] - Editar Pessoas | [4] - Deletar Pessoas\n'))
+        opcao = str(input('[1] - Listar Pessoas | [2] - Cadastrar Pessoas | [3] - Editar Pessoas | [4] - Deletar Pessoas | [5] Buscar por saldo \n'))
 
         # ---------------------------------------- MENU DE PESSOAS -----------------------------------------
         if opcao == '1':
